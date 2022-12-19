@@ -1,5 +1,5 @@
 # Pong
 
-![alt text](http://https://disk.yandex.ru/i/Eo7vosBI9Svpgw)
+![alt text](https://github.com/BobaBiven/pong/blob/master/Screenshot_20221220_001713.png?raw=true)
 
 Pong Game
